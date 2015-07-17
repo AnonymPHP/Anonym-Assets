@@ -1,0 +1,23 @@
+{
+  "name": "AnonymPHP/Anonym-Assets",
+  "type": "library",
+  "description": "AnonymFramework Asset Component",
+  "license": "proprietary",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AnonymPHP/Anonym-Assets.git"
+  },
+  "authors": [
+    {
+      "name": "Vahit Şerif Sağlam",
+      "email": "vahit.serif119@gmail.com",
+      "homepage":"http://www.gemframework.com"
+    }
+  ],
+
+  "autoload":{
+    "psr-4" : {
+      "Anonym\\Component\\Assets\\":""
+    }
+  }
+}
