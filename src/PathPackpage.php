@@ -7,13 +7,14 @@
      * @author vahitserifsaglam1 <vahit.serif119@gmail.com>
      */
 
-    namespace Anonym\Assets;
+    namespace Anonym\Component\Assets;
 
     /**
      * Class PathPackpage
      *
      * @package Anonym\Assets
      */
+
     class PathPackpage implements AssetInterface
     {
 

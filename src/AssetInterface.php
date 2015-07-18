@@ -6,7 +6,7 @@
 
      */
 
-    namespace Anonym\Assets;
+    namespace Anonym\Component\Assets;
 
     /**
      * Interface AssetInterface
@@ -16,6 +16,13 @@
 
     interface AssetInterface
     {
+
+        /**
+         * Oluşturulan url'i döndürür
+         *
+         * @param string $file
+         * @return mixed
+         */
 
         public function getUrl($file = '');
     }

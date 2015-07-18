@@ -5,7 +5,7 @@
      * @author vahitserifsaglam <vahit.serif119@gmail.com>
      */
 
-    namespace Anonym\Assets;
+    namespace Anonym\Component\Assets;
     /**
      * Class VersionPackpage
      *

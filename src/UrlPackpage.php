@@ -6,7 +6,7 @@
      * @author vahitserifsaglam1 <vahit.serif119@gmail.com>
      */
 
-    namespace Anonym\Assets;
+    namespace Anonym\Component\Assets;
 
     /**
      * Class UrlPackpage
