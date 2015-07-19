@@ -2,7 +2,7 @@
   "name": "anonym-php/anonym-assets",
   "type": "library",
   "description": "AnonymFramework Asset Component",
-  "license": "proprietary",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/AnonymPHP/Anonym-Assets.git"
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Anonym\\Component\\Assets\\": ""
+      "Anonym\\Component\\Assets\\": "src/Anonym/Components"
     }
   }
 }
