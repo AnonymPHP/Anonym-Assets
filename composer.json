@@ -3,10 +3,12 @@
   "type": "library",
   "description": "AnonymFramework Asset Component",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/AnonymPHP/Anonym-Assets.git"
-  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/AnonymPHP/Anonym-Assets.git"
+    }
+  ],
   "authors": [
     {
       "name": "Vahit Şerif Sağlam",
