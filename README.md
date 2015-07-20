@@ -8,5 +8,4 @@ AnonymFramework Assets
 
 Dökümantasyon
 ===========
-
 **Dökümantasyon:** [GemFramework Assets Dökümanyasyonu](http://gemframework.com/dokumantasyon/siniflar/assets/);
