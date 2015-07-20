@@ -7,7 +7,7 @@
      */
 
     namespace Anonym\Component\Assets;
-
+    use Anonym\Component\Assets\AssetInterface;
     /**
      * Class UrlPackpage
      * @package Anonym\Assets

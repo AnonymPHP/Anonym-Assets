@@ -4,8 +4,8 @@
      *
      * @author vahitserifsaglam <vahit.serif119@gmail.com>
      */
-
     namespace Anonym\Component\Assets;
+    use Anonym\Component\Assets\AssetInterface;
     /**
      * Class VersionPackpage
      *

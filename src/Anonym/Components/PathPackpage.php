@@ -9,6 +9,7 @@
 
     namespace Anonym\Component\Assets;
 
+    use Anonym\Component\Assets\AssetInterface;
     /**
      * Class PathPackpage
      *
